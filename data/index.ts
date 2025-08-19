@@ -128,6 +128,7 @@ export const testimonials = [
   {
     quote:
       "Arathy’s portfolio stands out because it feels alive. The way the dandelion journey ties into each project makes her work memorable and personal. You don’t just see her projects, you understand her as a designer.",
+    name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
